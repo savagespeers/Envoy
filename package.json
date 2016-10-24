@@ -1,0 +1,28 @@
+{
+  "name": "envoy",
+  "version": "1.0.0",
+  "description": "Envoy page using Bourbon/Neat with Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savagespeers/Envoy.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Bourbon",
+    "Neat"
+  ],
+  "author": "savagespeers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savagespeers/Envoy/issues"
+  },
+  "homepage": "https://github.com/savagespeers/Envoy#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
